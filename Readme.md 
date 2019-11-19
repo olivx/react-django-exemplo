@@ -1,0 +1,14 @@
+
+# django reactjs  
+
+### simple customer CURD
+
+
+start project
+* git clone https://github.com/olivx/react-django-exemplo.git
+* cd react-django-exemplo && pipenv shell '
+* pipenv install -d 
+* python manager.py migrate 
+* python manager.py runserver
+* cd frontend && yarn install 
+* yarn start 
